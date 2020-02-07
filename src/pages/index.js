@@ -15,6 +15,19 @@ const IndexPage = () => (
       <Image />
     </div>
     <Link to="/blog/my-first-post">Go to blog</Link>
+
+    <Link to="/projects/mol-ad-specs">MailOnline Ad Specs</Link>
+    <Link to="/projects/mol-showcase">MailOnline Showcase</Link>
+    <Link to="/projects/mol-us-ad-sales">MailOnline US Ad Sales</Link>
+    <Link to="/projects/adstream-costs">Adstream Costs</Link>
+    <Link to="/projects/adstream-library">Adstream Library</Link>
+    <Link to="/projects/adstream-wayfinder-design-system">
+      Adstream Wayfinder Design System
+    </Link>
+    <Link to="/projects/adstream-indesign-plugin">
+      Adstream InDesign Plugin
+    </Link>
+
     <Link to="/page-2/">Go to page 2</Link>
     <Link to="/404/">Go to 404 page</Link>
   </Layout>
