@@ -1,3 +1,17 @@
+---
+path: "/projects/mol-ad-specs"
+date: "2019-05-04"
+title: "MailOnline Ad Specs"
+
+client_name:
+project_title:
+byline:
+cta_text:
+cta_url:
+bg_color:
+read_time:
+---
+
 ## About the project
 
 Adstream partnered up with P&G to develop an advertising production costs estimation module within the Adstream Platform's Projects area that – according to P&G's estimates – **will save them approximately US\$500 million a year** by allowing them to track their production expenditures every step of the way.

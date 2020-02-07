@@ -1,3 +1,17 @@
+---
+path: "/projects/mol-ad-specs"
+date: "2019-05-04"
+title: "MailOnline Ad Specs"
+
+client_name:
+project_title:
+byline:
+cta_text:
+cta_url:
+bg_color:
+read_time:
+---
+
 ## About this project
 
 This project kicked off my role as I joined Adstream in April 2016, at a time when the company was experiencing significant growth and a chain of many important events such as the acquisition of Dubsat, massive growth in Brazil due to a partnership with Globo, their expansion in the US market, big businesses won from both P&G and Disney/ABC, amongst other stuff.
