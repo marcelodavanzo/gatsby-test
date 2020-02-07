@@ -1,7 +1,7 @@
 ---
-path: "/projects/mol-ad-specs"
+path: "/projects/adstream-wayfinder-design-system"
 date: "2019-05-04"
-title: "MailOnline Ad Specs"
+title: "Adstream Wayfinder Design System"
 
 client_name:
 project_title:

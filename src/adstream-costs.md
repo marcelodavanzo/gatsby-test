@@ -1,7 +1,7 @@
 ---
-path: "/projects/mol-ad-specs"
+path: "/projects/adstream-costs"
 date: "2019-05-04"
-title: "MailOnline Ad Specs"
+title: "Adstream Costs"
 
 client_name:
 project_title:

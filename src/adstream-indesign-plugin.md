@@ -1,3 +1,17 @@
+---
+path: "/projects/adstream-indesign-plugin"
+date: "2019-05-04"
+title: "Adstream InDesign Plugin"
+
+client_name:
+project_title:
+byline:
+cta_text:
+cta_url:
+bg_color:
+read_time:
+---
+
 ## What I did
 
 I worked closely with the senior interaction designer, the product manager for Library, members of the Print Support team and a team of developers, on everything ranging from interpreting high level requirements, producing flows, scenarios, sketches, wireframes, user tests, visual designs, prototypes, interactions and micro-interactions and all sorts of UI/UX explorations, through to creating development specifications.
